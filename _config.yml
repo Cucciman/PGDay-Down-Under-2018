@@ -183,8 +183,9 @@ footerBlocks:
   links:
    - {link: "https://www.postgresql.org/", text: "PostgreSQL"}
  -
-  title: "website template brought by"
-  links:- {link: "http://lviv.gdg.org.ua/", text: "GDGLviv"}
+  title: "website brought by:"
+  links:
+    - {link: "http://lviv.gdg.org.ua/", text: "GDGLviv"}
    #- {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
  #-
 #  title: "FAQ"
