@@ -145,7 +145,7 @@ ticketsOffers:
   price: "$1,900"
   priceCurrency: ""
   ticketsNumber: "150"
-  buyButtonLink: "mailto:andrea.cucciniello@2ndquadrant.com"
+  buyButtonLink: "mailto:australiapgday@gmail.com"
   buyButtonText: "Buy Now"
   ticketContentList: ["On stage banners", "1 free pass", "Mention during the event", "Logo on printed materials", "Logo on webpage"]
  -
@@ -154,15 +154,15 @@ ticketsOffers:
   priceCurrency: ""
   ticketsNumber: "100"
   featured: true
-  buyButtonLink: "mailto:andrea.cucciniello@2ndquadrant.com"
+  buyButtonLink: "mailto:australiapgday@gmail.com"
   buyButtonText: "Buy Now"
   ticketContentList: ["Stand Space", "Keynote Opportunity", "On stage banners", "2 free passes", "Mention during the event", "Logo on printed materials", "Logo on webpage"]
  -
-  name: "Bronze"
+  name: "Silver"
   price: "$900"
   priceCurrency: ""
   ticketsNumber: "50"
-  buyButtonLink: "mailto:andrea.cucciniello@2ndquadrant.com"
+  buyButtonLink: "mailto:australiapgday@gmail.com"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Logo on printed materials", "Logo on webpage"]

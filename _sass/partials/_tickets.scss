@@ -5,7 +5,7 @@ $button-background-color-hover: #4d4d4d;
 
 .pricing-col {
     overflow: hidden;
-    margin-bottom: 26px;
+    margin-bottom: 24px;
     padding: 0;
     font-size: 16px;
     font-weight: $light;
@@ -20,7 +20,7 @@ $button-background-color-hover: #4d4d4d;
         border-right: 1px $col-border-color solid;
         border-left: none;
         @media (max-width: 767px) {
-            border: 1px $col-border-color solid;    
+            border: 1px $col-border-color solid;
         }
     }
     &.pricing-col-featured {
@@ -42,7 +42,7 @@ $button-background-color-hover: #4d4d4d;
             }
         }
         .price {
-            margin-bottom: 30px;
+            margin-bottom: 33px;
             color: $primary-color;
         }
         .pricing-content {
@@ -55,7 +55,7 @@ $button-background-color-hover: #4d4d4d;
             margin-top: 45px;
             background: $primary-color;
             &:hover {
-                background: $primary-color-hover;    
+                background: $primary-color-hover;
             }
             @media (max-width: 767px) {
                 margin: 0;
@@ -63,7 +63,7 @@ $button-background-color-hover: #4d4d4d;
             &.disabled {
                 &:hover {
                     background: $primary-color;
-                }      
+                }
             }
         }
     }
@@ -99,7 +99,7 @@ $button-background-color-hover: #4d4d4d;
         &.disabled {
             &:hover {
                 background: $button-background-color;
-            }      
+            }
         }
         &.fallback {
             font-size: 18px;
