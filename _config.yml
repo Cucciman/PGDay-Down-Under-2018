@@ -57,8 +57,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 #heroTitle: "PGDay DevFest <typeout> 2014"
-heroTitle: "PGDay Australia 2017"
-eventDate: "November 17th, 2017"
+heroTitle: "PGDay Australia"
+eventDate: "Melbourne, November 17th, 2017"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
@@ -69,7 +69,10 @@ heroButtons:
 # About Block
 aboutTitle: "About PGDay"
 aboutBlock:
- - {title: "", image: "", text: "This is the second Australian PGDay after the first in 2013. We aim to organise it every year from now on, rotating through different cities. We like helping the Australian community grow and connecting the different PostgreSQL user groups. The event is a one day conference and networking event, which brings together speakers from across the community to share the latest about Postgres news and updates. The complete schedule is work in progress and will be published shortly." }
+ - {title: "", image: "", text: "This is the second Australian PGDay after the first in 2013. We would like to establish an annual PostgreSQL conference in the region, creating a network among the local user groups.
+We hope you are excited and ready to give a contribution to the PGDay Oz this year, be part of the organisation and help grow the Australian community.
+We need help and support to organise current and future Postgres community events. Volunteers are welcome!
+PGDay Australia is a one day conference and networking event, which brings together speakers from across the community to share the latest about Postgres news and updates. The complete schedule is work in progress and will be published shortly." }
 
 
 # - {title: "Workshops", image: "", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -94,19 +97,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "Rydges Melbourne"
+eventLocationLink: " www.rydges.com/melbourne"
+eventStreetAddress: "186 Exhibition Street"
+eventAddressLocality: "Melbourne"
+eventAddressLocalityRegion: "Victoria"
+eventPostalCode: "3000"
+eventAddressCountry: "Australia"
+eventStartTime: "2017-11-17T9:00"
+eventDoorTime: "08:30"
+eventEndTime: "2017-11-17T19:00"
+#eventPlaceCoordinates: "49.843237, 24.028751"
+#mapCenterCoordinates: "49.842537, 24.025701"
+#mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -114,8 +117,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Rydges Melbourne"
+venueFeatures: ["186 Exhibition Street", "www.rydges.com/melbourne", "Conveniently located in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
