@@ -75,8 +75,7 @@ We need help and support to organise current and future Postgres community event
 PGDay Australia is a one day conference and networking event, which brings together speakers from across the community to share the latest about Postgres news and updates. The complete schedule is work in progress and will be published shortly." }
 
 
-# - {title: "Workshops", image: "", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
-# - {title: "Hackathon", image: "", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -147,26 +146,26 @@ ticketsOffers:
   name: "Gold"
   price: "$1,900"
   priceCurrency: ""
-  ticketsNumber: "150"
+  ticketsNumber: "5"
   buyButtonLink: "mailto:australiapgday@gmail.com"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Contact Us"
   ticketContentList: ["On stage banners", "Mention during the event", "Logo on printed materials", "Logo on webpage"]
  -
   name: "Platinum"
   price: "$3,900"
   priceCurrency: ""
-  ticketsNumber: "100"
+  ticketsNumber: "3"
   featured: true
   buyButtonLink: "mailto:australiapgday@gmail.com"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Contact Us"
   ticketContentList: ["Stand Space", "Keynote Opportunity", "On stage banners", "Mention during the event", "Logo on printed materials", "Logo on webpage"]
  -
   name: "Silver"
   price: "$900"
   priceCurrency: ""
-  ticketsNumber: "50"
+  ticketsNumber: "10"
   buyButtonLink: "mailto:australiapgday@gmail.com"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Contact Us"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Logo on printed materials", "Logo on webpage"]
   #validFrom: "2014-08-20T10:00"
