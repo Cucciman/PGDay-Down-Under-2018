@@ -64,7 +64,7 @@ typeoutFallback: ""
 heroButtons:
  - {link: "https://goo.gl/forms/oX3EJZHE1xWr92pf2", text: "Call for Papers"}
  - {permalink: "/#tickets", text: "Become a sponsor"}
- - {link: "https://www.eventbrite.com.au/e/pg-day-australia-2017-tickets-35782315870", text: "RSVP"}
+ - {link: "https://www.eventbrite.com.au/e/pg-day-australia-2017-tickets-35782315870", text: "Register here"}
 
 # About Block
 aboutTitle: "About PGDay"
@@ -135,9 +135,9 @@ organizersTitle: "Organizers"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Registration"
+subscribeAction: "https://www.eventbrite.com.au/e/pg-day-australia-2017-tickets-35782315870"
+subscribeInfo: "A small entry fee of $29 applies to reserve your spot given that seats are limited. The event will be fully catered with tea and lunch break. Don't miss out, register now !"
 
 # Tickets Block
 ticketsTitle: "Sponsorship Packages"
@@ -150,7 +150,7 @@ ticketsOffers:
   ticketsNumber: "150"
   buyButtonLink: "mailto:australiapgday@gmail.com"
   buyButtonText: "Buy Now"
-  ticketContentList: ["On stage banners", "1 free pass", "Mention during the event", "Logo on printed materials", "Logo on webpage"]
+  ticketContentList: ["On stage banners", "Mention during the event", "Logo on printed materials", "Logo on webpage"]
  -
   name: "Platinum"
   price: "$3,900"
@@ -159,7 +159,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "mailto:australiapgday@gmail.com"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Stand Space", "Keynote Opportunity", "On stage banners", "2 free passes", "Mention during the event", "Logo on printed materials", "Logo on webpage"]
+  ticketContentList: ["Stand Space", "Keynote Opportunity", "On stage banners", "Mention during the event", "Logo on printed materials", "Logo on webpage"]
  -
   name: "Silver"
   price: "$900"
