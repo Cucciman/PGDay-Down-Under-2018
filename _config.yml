@@ -69,10 +69,14 @@ heroButtons:
 # About Block
 aboutTitle: "About PGDay"
 aboutBlock:
- - {title: "", image: "", text: "This is the second Australian PGDay after the first in 2013. We would like to establish an annual PostgreSQL conference in the region, creating a network among the local user groups.
-We hope you are excited and ready to give a contribution to the PGDay Oz this year, be part of the organisation and help grow the Australian community.
-We need help and support to organise current and future Postgres community events. Volunteers are welcome!
-PGDay Australia is a one day conference and networking event, which brings together speakers from across the community to share the latest about Postgres news and updates. The complete schedule is work in progress and will be published shortly." }
+ - {title: "", image: "", text:
+"This is the second Australian PGDay after the first in 2013. PGDay Oz 2017 is a one day conference and networking event,
+which brings together speakers from across the community to share the latest about Postgres news and updates.
+The complete schedule is work in progress and will be published shortly.
+We would like to establish an annual PostgreSQL conference in the region and create a network among the local user groups.
+We hope you are excited and ready to give a contribution to the PGDay this year, be part of the organisation and help us grow the Australian community.
+Volunteers are welcome!
+" }
 
 
 
