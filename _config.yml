@@ -57,9 +57,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "PGDay Oz <Novmeber 17th, Melbourne> 2017"
-heroTitle: " "
+heroTitle: "PGDay Australia"
 eventDate: "Melbourne - November 17th, 2017"
-typeoutTextValues: '" PGDay Australia 2017  "'
+typeoutTextValues: '" 17 November, 2017  "'
 typeoutFallback: " "
 
 heroButtons:
