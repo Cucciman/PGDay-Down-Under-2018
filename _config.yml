@@ -56,11 +56,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-#heroTitle: "PGDay DevFest <typeout> 2014"
-heroTitle: "PGDay Australia"
-eventDate: "Melbourne, November 17th, 2017"
-typeoutTextValues: '""'
-typeoutFallback: ""
+heroTitle: "PGDay Oz <Novmeber 17th, Melbourne> 2017"
+heroTitle: " "
+eventDate: "Melbourne - November 17th, 2017"
+typeoutTextValues: '" PGDay Australia 2017  "'
+typeoutFallback: " "
+
 heroButtons:
  - {link: "https://goo.gl/forms/oX3EJZHE1xWr92pf2", text: "Call for Papers"}
  - {permalink: "/#tickets", text: "Become a sponsor"}
@@ -130,7 +131,7 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 #Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Supporters"
 # partnersTitle: "Partners"
 # partnersC4sponsorsButton: "Become a sponsor"
 
@@ -189,9 +190,9 @@ footerBlocks:
   links:
    - {link: "https://www.postgresql.org/", text: "PostgreSQL"}
  -
-  title: "website brought by:"
-  links:
-    - {link: "http://lviv.gdg.org.ua/", text: "GDGLviv"}
+  #title: "website brought by:"
+  #links:
+  #  - {link: "http://lviv.gdg.org.ua/", text: "GDGLviv"}
    #- {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
  #-
 #  title: "FAQ"
