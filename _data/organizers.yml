@@ -1,8 +1,10 @@
 -
-  group: "Platinum Sponsor"
+  group: "Platinum Sponsors"
   elements:
     - {name: "2nd Quadrant", description: "2nd Quadrant - Professional PostgreSQL", link: "https://www.2ndquadrant.com/en/", imageUrl: "gdg-lviv.svg"}
--
+    - {name: "Fujitsu", description: "Fujitsu, Australia", link: "http://www.fujitsu.com/au/", imageUrl: "gdg-cherkasy.svg"}
+    - {name: "EDB", description: "Enterprise DB", link: "https://www.enterprisedb.com/", imageUrl: "gdg-kyiv.svg"}
+
 #  group: "Co-organizers"
 #  elements:
   #  - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
