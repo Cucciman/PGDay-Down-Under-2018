@@ -144,33 +144,33 @@ subscribeAction: "https://www.eventbrite.com.au/e/pg-day-australia-2017-tickets-
 subscribeInfo: "A small entry fee of $29 applies to reserve your spot given that seats are limited. The event will be fully catered with tea and lunch break. Don't miss out, register now !"
 
 # Tickets Block
-ticketsTitle: "Sponsorship Packages"
+ticketsTitle: "Sponsorship Opportunities"
 ticketsInfo: "TODO"
 ticketsOffers:
  -
   name: "Gold"
-  price: "$1,900"
+  price: "Description"
   priceCurrency: ""
   ticketsNumber: "5"
   buyButtonLink: "mailto:australiapgday@gmail.com"
-  buyButtonText: "Contact Us"
+  buyButtonText: "Enquire now"
   ticketContentList: ["On stage banners", "Mention during the event", "Logo on printed materials", "Logo on webpage"]
  -
   name: "Platinum"
-  price: "$3,900"
+  price: "Description"
   priceCurrency: ""
   ticketsNumber: "3"
   featured: true
   buyButtonLink: "mailto:australiapgday@gmail.com"
-  buyButtonText: "Contact Us"
+  buyButtonText: "Not Available"
   ticketContentList: ["Stand Space", "Keynote Opportunity", "On stage banners", "Mention during the event", "Logo on printed materials", "Logo on webpage"]
  -
   name: "Silver"
-  price: "$900"
+  price: "Description"
   priceCurrency: ""
   ticketsNumber: "10"
   buyButtonLink: "mailto:australiapgday@gmail.com"
-  buyButtonText: "Contact Us"
+  buyButtonText: "Enquire now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Logo on printed materials", "Logo on webpage"]
   #validFrom: "2014-08-20T10:00"

@@ -8,10 +8,25 @@ isStaticPost: true
 __This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
 
 
-Postgres is an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at PG Day meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the conference.
+All delegates, speakers, exhibitors and volunteers of PGDay.Oz must follow the following code of conduct. Organizers will enforce this code before and throughout the event.
 
-If someone is bothering you, please tell PGDay Organizers immediately and they will take care of it. We want to maintain PGDay’s awesomeness.
+In short
+PGDay.Oz wants to provide an experience of the conference without harassment for all, regardless of gender, sexual orientation, disability, physical appearance, body size, race or religion. We do not tolerate harassment to conference participants in any form. Language and sexual images are not appropriate for any area of conference, including presentations. Conference participants who violate these rules can be fined or expelled from the conference without refund at the discretion of the conference organizers.
 
+Long version
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, chasing, photographs or harassing recordings, continued interruption of presentations or other events, inappropriate physical contact and unwanted sexual attention.
+
+Participants who are instructed to stop any harassing behavior are required to comply immediately.
+
+Even the exhibitors in the exhibition hall, in banquets for sponsors or suppliers, or similar activities are subject to standard anti harassment. In particular, the exhibitors must not use sexualized images or other material. The staff of the banquets (including volunteers) should not use sexualized clothing / uniforms / costumes, or otherwise create a sexualized environment.
+
+If a participant undertakes a harassing behavior, the conference organizers may take any measures they find appropriate, including the expulsion from the conference without any reimbursement.
+
+If you get harassed, or you see someone else being harassed, or you have any other concern, please contact immediately a member of the Conference staff, identified by blue shirt on.
+
+The conference staff will help participants to contact the Safety team of the location or the local law enforcement, to escort, or assist in other ways those experiencing harassment.
+
+These rules also extend to social events linked to the conference.
 
 
 ######Contacts:
