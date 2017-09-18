@@ -141,7 +141,8 @@ organizersTitle: "Supporters"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Registration"
 subscribeAction: "https://www.eventbrite.com.au/e/pg-day-australia-2017-tickets-35782315870"
-subscribeInfo: "A small entry fee of $29 applies to reserve your spot given that seats are limited. The event will be fully catered with tea and lunch break. Don't miss out, register now !"
+
+subscribeInfo: " "
 
 # Tickets Block
 ticketsTitle: "Sponsorship Opportunities"
