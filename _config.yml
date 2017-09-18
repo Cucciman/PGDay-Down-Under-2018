@@ -80,8 +80,6 @@ Volunteers are welcome!
 " }
 
 
-
-
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
@@ -93,10 +91,14 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "Latest news"
 
+# Judges Block
+judgesTitle: "Talk Selection Committee"
+
+
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 5
-rockstarSpeakersTitle: "Talk Selection Committee"
+rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
