@@ -1,59 +1,127 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
+  id: 000
+  title: "Registration"
+  place: "Hall'"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 080
+  title: "Welcome"
+  place: "Hall'"
   service: true
--
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  description: ""
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Morning Tea"
+  place: "Bobby McGee'"
+  service: true
+  description: ""
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Afternoon Tea"
+  place: "Bobby McGee'"
+  service: true
+  description: ""
+-
+  id: 003
+  title: "Lunch Break"
+  place: "Bobby McGee'"
+  service: true
+-
+  id: 007
+  title: "Event Wrap Up"
+  place: "Conference Room'"
+  service: true
+-
+  id: 008
+  title: "Networking Drinks"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 090
+  title: "Securing PostgreSQL -- Exploring the PostgreSQL STIG and Beyond"
+  description: "There are many aspects and considerations when securing PostgreSQL. This talk will cover some examples of the dangers associated with typical default installations, along with built-in features and extensions available to mitigate them. It will focus on the recently published DISA PostgreSQL STIG. PostgreSQL is the first completely open source database to receive a published STIG."
   subtype: keynote
+  speakers: [5]
+  #language: en
+  #complexity: "Intermediate"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 001
+  title: "How to teach an elephant to dance rock’n’roll or unconvetional techniques of query optimization in PostgreSQL"
+  description: "Very technical presentation about uncommon techniques of query optimization (outside of adding indexes/changing database configuration). Previous version available via https://www.slideshare.net/pgdayasia/how-to-teach-an-elephant-to-rocknroll . For PGDay Australia this presentation will be slightly redone reducing amount of the materials and, in the same time, allowing better concentrate on ideas."
+  subtype: presentation
+  speakers: [10]
+  #language: en
+  #complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 307
+  title: "Need is the mother of all Inventions!! Is very true for PostgreSQL 10 Logical Replication"
+  description: "Before PostgreSQL 10 'Logical Replication', built-in streaming replication was all time favourite HA solution. It was working quite well to fulfil the need to replicate master to have a replica. Introduction of hot streaming replication added another feather to its cap and opens the way to use ideally sitting replica for read only queries. But, there are many use-cases where it is not a good fit.
+                With this talk, we will discuss real life use cases where logical replication is best fit and physical replication (streaming replication) does not suffice. We will showcase its need and how to achieve it with a quick demo."
+  subtype: presentation
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #language: en
+  #complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 010
+  title: "Queues in PostgreSQL"
+  description: "This was presented at a PGCon in Ottawa this year and would love to present an updated version in Melbourne.  It is a fairly technical talk and should be of interest to DBAs and developers trying to make sense of EXPLAIN plans.  It covers the implementation of hash joins in PostgreSQL, with a small part at the end on my current work to extend the power of parallel hash joins.  Here are the description and slides from PGCon: https://www.pgcon.org/2017/schedule/events/1053.en.html"
+  subtype: presentation
+  speakers: [9]
+  #language: uk
+  #complexity: "Beginner"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 503
+  title: "Distributed PostgreSQL"
+  description: "How can we get High Availability? How do we scale PostgreSQL? How do we link databases together? Review of open source technology covering replication - physical and logical, Foreign Data Wrappers as well as Postgres-BDR and Postgres-XL and other roadmap items."
+  subtype: keynote
+  speakers: [6]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 004
+  title: "How to contribute to PostgreSQL"
+  description: "There are plenty of ways to contribute to PostgreSQL and some of the
+                ways are may not be known to many people. This topic is to cover most
+                of the ways that are available to contribute to PostgreSQL database
+                by individuals and companies. Many people feels contribution to
+                PostgreSQL is difficult and it is possible only to the people
+                who have knowledge on database, language and etc. This topic
+                is to cover all the ways of contribution to PostgreSQL."
+  subtype: presentation
+  speakers: [11]
+  #language: en
+  #complexity: "Beginner"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "Multimaster isn't magic: when and how to use multi-master replication and BDR"
+  description: "Keeping your data in more than one place is vital for business continuity, and databases are no exception. Backups are great, but they won't help you when your normally-connected EU, US and Australian operations all want to continue operating during a major WAN outage. This is where multi-master replication systems come into their own - but they also come with often overlooked costs and downsides. Bi-Directional Replication (BDR) for PostgreSQL can help solve some users' availability challenges in a globally distributed environment... if it's applied correctly.
+  Multi-master is not magic high availability secret-sauce that can be applied to every problem, no matter what some major vendors' sales teams would like you to believe.
+  Learn about when to use - and not to use - multi-master replication in general, and BDR in particular."
+  subtype: presentation
+  speakers: [8]
+  #language: en
+  #complexity: "Beginner"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 009
+  title: "Lightning Talk Session"
+  description: "Short talk. Pay attention, take notes and hold your questions...you will have the chance to get more details over drinks!"
+  subtype: presentation
+  speakers: [12,13,14]
+  #language: en
+  #complexity: "Beginner"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

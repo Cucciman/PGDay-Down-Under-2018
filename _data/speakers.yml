@@ -1,67 +1,149 @@
 -
-  id: 3
-  name: "Arul"
-  surname: "Shaji"
-  #company: "Google Poland"
-  #title: "Developer Relations Program Manager"
-  #bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+  id: 5
+  name: "Joe"
+  surname: "Conway"
+  #company: "Crunchy Data Solutions"
+  title: "PostgreSQl Engineer"
+  bio: "Joe Conway is an innovative leader with broad experience in a wide array
+       of disciplines and extensive international business exposure. He has
+       been involved with the PostgreSQL community since 1998, presently as a
+       PostgreSQL Committer, Major Contributor, and Infrastructure Team member.
+       He is also the author and maintainer of a PostgreSQL procedural language
+       handler for the R language, PL/R. Joe is currently VP PostgreSQL
+       Engineering at Crunchy Data Solutions and a Board Member at the United
+       States PostgreSQL Association (PgUS)."
   thumbnailUrl: DawidOstrowski.jpg
   rockstar: true
-  #social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
--
-  id: 4
-  name: "Bruce"
-  surname: "Momjian"
-  #company: "Lemberg Solutions Limited"
-  #title: "Android Developer"
-  #bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  #social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-  #  - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-  #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
--
-  id: 5
-  name: "Umair"
-  surname: "Shahid"
-  #company: "Base CRM, GDG Krakow"
-  #title: "Software Engineer"
-#  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-#  ribbon:
-  #  - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-  #  - {name: "twitter", link: "https://twitter.com/mherych"}
+  social:
+  - {name: "google-plus", link: " "}
 -
   id: 6
-  name: "James"
-  surname: "Sewell"
-  #company: "Stanfy, GDG Kyiv"
-  #title: "Head of Android/Java Unit"
-  #bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Simon"
+  surname: "Riggs"
+  #company: "2ndQuadrant"
+  title: "CTO"
+  bio: "Simon Riggs is the Founder and Chief Technology Officer of 2ndQuadrant. He
+        is also a major developer and committer of the PostgreSQL project.
+        Simon has contributed major features in each of the last 6 versions of PostgreSQL.
+        His work includes recovery and replication performance and monitoring as well as designs for
+        many other features. Simon has worked as a Database Architect for 20 years with high-end solutions
+        experience and certifications on Oracle Teradata and DB2."
+  thumbnailUrl: SimonRiggs.jpg
   rockstar: true
-#  ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#  social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-  #  - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+  social:
+    - {name: "google-plus", link: " "}
+    - {name: "twitter", link: " "}
+    - {name: "github", link: " "}
 -
   id: 7
-  name: "Sameer"
-  surname: "Kumar"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Software engineer/country manager"
-#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Rajni"
+  surname: "Baliyan"
+  #company: "Fujitsu"
+  title: "PostgreSQL DBA"
+  bio: "Rajni currently works as a PostgreSQL DBA and engages in pre-sales for database solution at Fujitsu Australia Software Technology.
+  She started her career as Oracle DBA 7 years back and on the way of solving Database problems
+  she got the curiosity to learn other RDBMS like PostgreSQL and SQL server.
+  PostgreSQL attracted her the most and being an Oracle DBA it was not difficult for her to pick it up. Rajni was encouraged to clear PostgreSQL Professional certificate together with Oracle and SQL Server professional certificates."
+  thumbnailUrl: Rajni.jpg
   rockstar: true
-#  ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#  social:
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#    - {name: "site", link: "http://olostan.name/"}
+  #ribbon:
+  #  - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: " "}
+-
+  id: 8
+  name: "Craig"
+  surname: "Ringer"
+  #company: "2ndQuadrant"
+  title: "Senior Software Engineer and Developer"
+  bio: " "
+  thumbnailUrl: CraigRinger.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: " "}
+    - {name: "twitter", link: " "}
+-
+  id: 9
+  name: "Thomas"
+  surname: "Munro"
+  #company: "EnterpriseDB"
+  title: "Programmer"
+  bio: "Thomas Munro is a member of the Database Server team at EnterpriseDB where he works on
+  Postgres Plus Advanced Server and PostgreSQL.  He has made a number of contributions to PostgreSQL
+  including adding new features, fixing bugs and reviewing patches.  He intends to keep doing that.
+  Before becoming an open source database hacker he worked on Unix, C, C++ and database systems in the fintech industry."
+  thumbnailUrl: ThomasMunro.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: " "}
+    - {name: "site", link: " "}
+-
+  id: 10
+  name: "Maxim"
+  surname: "Boguk"
+  #company: "Data Egret"
+  title: "Chief DBA"
+  bio: "Maxim Boguk is a Chief DBA and a co-Founder of Data Egret.
+  A firm, specialising in all things PostgreSQL from database maintenance to system administration support.
+  He has been in the industry for over 15 years and is an experienced Slonik trainer.
+  Maxim lives and works in Australia and enjoys having a break from it all surfing and piloting light airplanes."
+  thumbnailUrl: MaximBoguk.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: " "}
+    - {name: "site", link: " "}
+-
+  id: 11
+  name: "Hari Babu"
+  surname: "Kommi"
+  #company: "Fujitsu"
+  title: "Senior Software Development Engineer"
+  bio: "Hari Babu is a Senior Software Development Engineer in Fujitsu Australia Software Technology
+  and is working with both open source PostgreSQL and Fujitsu Enterprise Postgres.
+  I actively participates in the development of PostgreSQL, both developing
+  with PostgreSQL and developed an extension to improve the performance of the queries in hybrid
+  database model."
+  thumbnailUrl: HariBabu.jpg
+  rockstar: true
+  social:
+      - {name: "google-plus", link: " "}
+      - {name: "site", link: " "}
+-
+  id: 12
+  name: "Gabriele"
+  surname: "Bartolini"
+  #company: "2ndQuadrant"
+  title: "Head of Global Support"
+  bio: "A long time open-source programmer and entrepreneur, Gabriele has a degree in Statistics from the University of Florence. Gabriele is the Head of Global Support at 2ndQuadrant and managing director of the Italian office as well as an active member of the international PostgreSQL community and local ITPUG. His commitment is to consistently contribute to the growth of 2ndQuadrant and it’s members through nurturing a lean and devops culture. Gabriele lives in Prato, a small but vibrant city located in the northern part of Tuscany, Italy. His second home is Melbourne, Australia, where he studied at Monash University and worked in the ICT sector.
+  His hobbies include “calcio” (football or soccer, depending on which part of the world you come from) and playing his Fender Stratocaster electric guitar. But his major passion is called: Elisabeth - his sweet 1-year old daughter!"
+  thumbnailUrl: GabBartolini.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: " "}
+    - {name: "site", link: " "}
+-
+  id: 13
+  name: "Gary"
+  surname: "Evans"
+  #company: "Fujitsu"
+  title: "Software Engineer"
+  bio: " "
+  thumbnailUrl: EvansG.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: " "}
+    - {name: "site", link: " "}
+-
+  id: 14
+  name: "Robert"
+  surname: "Lechte"
+  #company: "Australian Council of Trade Unions "
+  title: "Software Engineer"
+  bio: " "
+  #thumbnailUrl: RobLechte.jpg
+  rockstar: true
+  social:
+      - {name: "google-plus", link: " "}
+      - {name: "site", link: " "}
