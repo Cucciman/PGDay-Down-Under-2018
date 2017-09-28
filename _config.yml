@@ -222,8 +222,8 @@ logisticsMapMobileCenterCoordinates: "-37.811222, 144.970443"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around PGDay Oz"
+directionDetailsImage: "GoogleMap.jpg"
+directionDetailsTitle: ""
 directionDetailsCards:
      - {title: "From the Airport", information: 'Tullamarine Airport is the primary airport serving the city. Besides Taxi and Uber service you can reach the city center (CBD) by SkyBus. More information is available <a href="https://www.skybus.com.au/melbourne-airport/"> Here </a>.'}
      - {title: "Public Tranport", information: 'Melbourne has a great Tram network. Hopping on a tram is free within the CBD area. Find here more information on the <a href="https://www.ptv.vic.gov.au/"> Public Transport Victoria </a>.'}
