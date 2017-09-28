@@ -222,7 +222,7 @@ logisticsMapMobileCenterCoordinates: "-37.811222, 144.970443"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "GoogleMap.jpg"
+directionDetailsImage: "googlemap.jpg"
 directionDetailsTitle: " "
 directionDetailsCards:
      - {title: "From the Airport", information: 'Tullamarine Airport is the primary airport serving the city. Besides Taxi and Uber service you can reach the city center (CBD) by SkyBus. More information is available <a href="https://www.skybus.com.au/melbourne-airport/"> Here </a>.'}
