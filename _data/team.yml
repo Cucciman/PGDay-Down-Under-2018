@@ -58,3 +58,33 @@
   #social:
   #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
   #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 20
+  name: "Lyn"
+  surname: "Ward"
+  title: "Organising Committee Member"
+  thumbnailUrl: Lyn.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 21
+  name: "Gabrielle"
+  surname: "Kingston"
+  title: "Organising Committee Member"
+  thumbnailUrl: Gab.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 22
+  name: "Andrea"
+  surname: "Cucciniello"
+  title: "Organising Committee Member"
+  thumbnailUrl: Andrea.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
