@@ -50,7 +50,7 @@
 -
   id: 001
   title: "How to teach an elephant to dance rock’n’roll or unconvetional techniques of query optimization in PostgreSQL"
-  description: "Very technical presentation about uncommon techniques of query optimization (outside of adding indexes/changing database configuration). Previous version available via https://www.slideshare.net/pgdayasia/how-to-teach-an-elephant-to-rocknroll . For PGDay Australia this presentation will be slightly redone reducing amount of the materials and, in the same time, allowing better concentrate on ideas."
+  description: "Very technical presentation about uncommon techniques of query optimization (outside of adding indexes/changing database configuration)."
   subtype: presentation
   speakers: [10]
   #language: en
@@ -70,7 +70,7 @@
 -
   id: 010
   title: "Queues in PostgreSQL"
-  description: "This was presented at a PGCon in Ottawa this year and would love to present an updated version in Melbourne.  It is a fairly technical talk and should be of interest to DBAs and developers trying to make sense of EXPLAIN plans.  It covers the implementation of hash joins in PostgreSQL, with a small part at the end on my current work to extend the power of parallel hash joins.  Here are the description and slides from PGCon: https://www.pgcon.org/2017/schedule/events/1053.en.html"
+  description: "This is a fairly technical talk and should be of interest to DBAs and developers trying to make sense of EXPLAIN plans.  It covers the implementation of hash joins in PostgreSQL, with a small part at the end on my current work to extend the power of parallel hash joins."
   subtype: presentation
   speakers: [9]
   #language: uk
