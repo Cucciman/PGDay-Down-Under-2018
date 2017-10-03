@@ -129,7 +129,7 @@
   surname: "Evans"
   #company: "Fujitsu"
   title: "Software Engineer"
-  bio: " "
+  bio: "Gary currently works for Fujitsu Australia in the PostgreSQL Services and Support team, where he works with Fujitsu Customers to help them get the best out of PostgreSQL and Fujitsu Enterprise Postgres.  His software development background utilising Microsoft and open source technologies adds to the diversity of the services team; allowing a rich pool of resources when designing solutions for Fujitsu customers. "
   thumbnailUrl: EvansG.jpg
   rockstar: true
   social:
@@ -141,7 +141,8 @@
   surname: "Lechte"
   #company: "Australian Council of Trade Unions "
   title: "Software Engineer"
-  bio: " "
+  bio: "Python coder, data massager, open sorcerer, opinion haver, union thug, peanut butter enthusiast, Postgres fanboy. Robert created the data warehousing for New Zealand's supercomputing infrastructure (proof that even the smallest countries can sometime have big data) and then worked for the Digital Transformation Agency in Sydney. He relocated in Melbourne last April to work for the union movement.
+        Robert likes talking about software and he recently presented at PostgresOpen Conference that was held in San Francisco at the beginning of September "
   #thumbnailUrl: RobLechte.jpg
   rockstar: true
   social:

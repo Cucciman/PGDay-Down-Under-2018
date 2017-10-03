@@ -70,7 +70,11 @@
 -
   id: 010
   title: "Queues in PostgreSQL"
-  description: "This is a fairly technical talk and should be of interest to DBAs and developers trying to make sense of EXPLAIN plans.  It covers the implementation of hash joins in PostgreSQL, with a small part at the end on my current work to extend the power of parallel hash joins."
+  description: " Many projects involve something resembling job or message queuing. This talk will look at:
+  the pros and cons of using a plain old relational database for this type of workload rather than specialized technology;
+  approaches and designs;
+  special considerations for PostgreSQL and
+  potential improvements."
   subtype: presentation
   speakers: [9]
   #language: uk
