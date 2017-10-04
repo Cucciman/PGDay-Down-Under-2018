@@ -143,7 +143,7 @@
   title: "Software Engineer"
   bio: "Python coder, data massager, open sorcerer, opinion haver, union thug, peanut butter enthusiast, Postgres fanboy. Robert created the data warehousing for New Zealand's supercomputing infrastructure (proof that even the smallest countries can sometime have big data) and then worked for the Digital Transformation Agency in Sydney. He relocated in Melbourne last April to work for the union movement.
         Robert likes talking about software and he recently presented at PostgresOpen Conference that was held in San Francisco at the beginning of September "
-  #thumbnailUrl: RobLechte.jpg
+  thumbnailUrl: RobLechte.jpg
   rockstar: true
   social:
       - {name: "google-plus", link: " "}
