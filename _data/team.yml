@@ -88,3 +88,13 @@
   #social:
   #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
   #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 23
+  name: "Tyson"
+  surname: "Clugg"
+  title: "Master of Ceremonies"
+  thumbnailUrl: Tyson.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
