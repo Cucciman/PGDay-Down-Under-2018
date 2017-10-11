@@ -136,7 +136,7 @@ partnersTitle: "Supporters"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-#subscribeImage: "subscribe.jpg"
+subscribeImage: "subscribe.jpg"
 #subscribeTitle: "Registration"
 subscribeAction: "https://www.eventbrite.com.au/e/pg-day-australia-2017-tickets-35782315870"
 subscribeInfo: "Make sure to book your place as seats are limited "
