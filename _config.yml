@@ -73,13 +73,11 @@ heroButtons:
 # About Block
 aboutTitle: "About PGDay"
 aboutBlock:
- - {title: "", image: "", text:
-"This is the second Australian PGDay after the first in 2013. PGDay Oz 2017 is a one day conference and networking event,
-which brings together speakers from across the community to share the latest about Postgres news and updates.
-The complete schedule is work in progress and will be published shortly.
-We would like to establish an annual PostgreSQL conference in the region and create a network among the local user groups.
-We hope you are excited and ready to give a contribution to the PGDay this year, be part of the organisation and help us grow the Australian community.
-Volunteers are welcome!
+ - {text:
+"The second Australian PGDay after the first in 2013.
+This is a one day conference and networking event, which brings together speakers from across the community to share the latest about Postgres news and updates. This year we have a fantastic line up of presenters with some of the most recognised PostgreSQL developers and experts.
+It's a fully catered event; morning and afternoon tea, lunch and drinks are included in the $29 registration fee. This has been possible thanks to the generous contribution from our sponsors.
+Space is limited so make sure you register.
 " }
 
 # Statistic Block
@@ -183,10 +181,10 @@ footerBlocks:
   links:
    - {link: "https://www.postgresql.org/", text: "PostgreSQL"}
  -
-  title: "a special thanks to:"
+  title: "Contact Us"
   links:
-    - {link: "http://2017.pgday.it/en/team/", text: "ITPUG Team"}
-   #- {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+  #- {link: "http://2017.pgday.it/en/team/", text: "ITPUG Team"}
+   - {link: "mailto:australiapgday@gmail.com", text: "PGDay Oz Team"}
  #-
 #  title: "FAQ"
 #  links:
