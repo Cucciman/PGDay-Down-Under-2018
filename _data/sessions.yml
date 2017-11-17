@@ -67,7 +67,7 @@
   speakers: [7]
   #language: en
   #complexity: "Intermediate"
-  presentation: " "
+  presentation: "/assets/Rajni_PGDay_Logical_replication.pdf "
 -
   id: 010
   title: "Queues in PostgreSQL"
@@ -80,7 +80,7 @@
   speakers: [9]
   #language: uk
   #complexity: "Beginner"
-  presentation: " "
+  presentation: "/assets/queues-pgday-au-2017.pdf"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 503
@@ -106,7 +106,7 @@
   speakers: [11]
   #language: en
   #complexity: "Beginner"
-  presentation: " "
+  presentation: "/assets/How to contribute PostgreSQL.pdf"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 006
