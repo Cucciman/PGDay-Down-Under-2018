@@ -67,8 +67,8 @@ typeoutTextValues: '" 17 November, 2017  "'
 typeoutFallback: " "
 heroButtons:
 # - {link: "https://goo.gl/forms/oX3EJZHE1xWr92pf2", text: "Call for Papers"}
- - {permalink: "/#tickets", text: "Become a sponsor"}
- - {link: "https://www.eventbrite.com.au/e/pg-day-australia-2017-tickets-35782315870", text: "Register here"}
+ #- {permalink: "/#tickets", text: "Become a sponsor"}
+ #- {link: "https://www.eventbrite.com.au/e/pg-day-australia-2017-tickets-35782315870", text: "Register here"}
 
 # About Block
 aboutTitle: "About PGDay"

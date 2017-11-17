@@ -46,6 +46,7 @@
   speakers: [5]
   #language: en
   #complexity: "Intermediate"
+  presentation: "/assets/SecurePostgreSQL.pdf"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 001
@@ -55,7 +56,7 @@
   speakers: [10]
   #language: en
   #complexity: "Intermediate"
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: " "
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 307
@@ -66,7 +67,7 @@
   speakers: [7]
   #language: en
   #complexity: "Intermediate"
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: " "
 -
   id: 010
   title: "Queues in PostgreSQL"
@@ -79,7 +80,7 @@
   speakers: [9]
   #language: uk
   #complexity: "Beginner"
-  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  presentation: " "
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 503
@@ -89,7 +90,7 @@
   speakers: [6]
   #language: en
   #complexity: "Expert"
-  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  presentation: " "
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 004
@@ -105,7 +106,7 @@
   speakers: [11]
   #language: en
   #complexity: "Beginner"
-  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  presentation: " "
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 006
@@ -117,7 +118,7 @@
   speakers: [8]
   #language: en
   #complexity: "Beginner"
-  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  presentation: " "
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
@@ -127,5 +128,5 @@
   speakers: [12,13,14]
   #language: en
   #complexity: "Beginner"
-  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  presentation: " "
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
