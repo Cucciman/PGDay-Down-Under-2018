@@ -118,7 +118,7 @@
   speakers: [8]
   #language: en
   #complexity: "Beginner"
-  presentation: " "
+  presentation: "/assets/MultiMasterDesignPatterns.pdf "
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
@@ -128,5 +128,5 @@
   speakers: [12,13,14]
   #language: en
   #complexity: "Beginner"
-  presentation: " "
+  presentation: "/assets/PGDayOz2017_centralisingAuth.pdf"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
